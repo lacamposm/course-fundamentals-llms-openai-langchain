@@ -87,12 +87,12 @@ if user_query is not None and user_query != "":
         st.markdown(user_query)
 
     with st.chat_message("AI"):
-        local_llm_response = st.write_stream(
+        llm_response = st.write_stream(
             stream_response_with_memory_openai(
                 model_name=st.session_state["openai_model"],
                 query=user_query,
                 chat_history=st.session_state.chat_history)
         )
     
-    st.session_state.chat_history.append(AIMessage(local_llm_response))
+    st.session_state.chat_history.append(AIMessage(llm_response))
     logging.info("Fin del chat.\n==============================================================================")

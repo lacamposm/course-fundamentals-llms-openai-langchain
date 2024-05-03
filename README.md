@@ -21,4 +21,6 @@ Curso ofrecido para el observatorio inmobiliario catastral - IGAC
 
 - _app-oic: Memory_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lacamposm/course-fundamentals-llms-openai-langchain/blob/main/app.ipynb)
 
+- _APP-RAG-OIC_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lacamposm/course-fundamentals-llms-openai-langchain/blob/main/app_final_proyect.ipynb)
+
 - _Codigo juego triki:_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lacamposm/course-fundamentals-llms-openai-langchain/blob/main/juego_triki.ipynb)

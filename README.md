@@ -19,6 +19,8 @@ Curso ofrecido para el observatorio inmobiliario catastral - IGAC
 
 - _Lectura clase 9: Proyecto Parte-I_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lacamposm/course-fundamentals-llms-openai-langchain/blob/main/Clase_09_proyecto_parte1.ipynb)
 
+- _Lectura clase 10: Proyecto Parte-2_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lacamposm/course-fundamentals-llms-openai-langchain/blob/main/Clase_10_app_final_proyect_agent.ipynb)
+
 - _app-oic: Memory_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lacamposm/course-fundamentals-llms-openai-langchain/blob/main/app.ipynb)
 
 - _APP-RAG-OIC_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lacamposm/course-fundamentals-llms-openai-langchain/blob/main/app_final_proyect.ipynb)
